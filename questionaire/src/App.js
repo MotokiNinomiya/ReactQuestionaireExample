@@ -1,6 +1,6 @@
 import React, { createContext, useReducer } from "react";
 import { BrowserRouter, Route } from "react-router-dom";
-import { pages } from "./data";
+import { pages } from "./data.json";
 import { answersReducer } from "./answersReducer";
 import { createInitialAnswers } from "./createInitialAnswers";
 import { GlobalStyles } from "./components/global-styles";

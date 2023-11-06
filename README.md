@@ -1,2 +1,0 @@
-# ReactQuestionaireExample
-Created with CodeSandbox
